@@ -1,0 +1,7 @@
+[{
+  "title": "Intro to Encore.ts",
+  "desc": "An interactive tutorial",
+  "template": "ts/introduction",
+  "lang": "ts",
+  "tutorial": true
+}]
